@@ -1,3 +1,2 @@
-## Hi there 👋
+<img alt="Qnbie's Github Title" src="Asset/QnbieGlobe.gif" style="max-width: 100%;"/>
 
-<img height="250" alt="Qnbie's Github Title" src="Asset/Qnbie'sGithub_slide.gif" />
